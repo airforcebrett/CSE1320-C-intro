@@ -2,9 +2,7 @@
 //  HW2_task_2.c
 //  Guessing Game
 //
-//  Created by Brett Bishop
-
-// ID 1000425627
+//  Created by Brett
 //
 
 #include <stdio.h>
