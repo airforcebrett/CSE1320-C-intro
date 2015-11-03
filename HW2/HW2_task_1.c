@@ -2,9 +2,7 @@
 //  HW2_task_1.c
 //  Print 1st 128 ASCII code
 //
-//  Created by Brett Bishop
-
-// ID 1000425627
+//  Created by Brett
 //
 
 #include <stdio.h>
