@@ -1,7 +1,6 @@
 
-//Brett Bishop
-//id 1000425627
-//cse1320
+//Brett
+
 //hw4 task 2 program to return bold underlined numbers and if they are a duplicate re-enter a number as well as print the max/min
 
 #include<stdio.h>
