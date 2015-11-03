@@ -2,8 +2,7 @@
 //  HW1_task_3.c
 //  
 //
-//  Created by Brett Bishop
-//  id 1000425627
+//  Created by Brett 
 //
 
 #include <stdio.h>
