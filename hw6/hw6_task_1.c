@@ -1,6 +1,5 @@
 
-// Brett Bishop
-//id 1000425627
+
 //hw6 task 1 to make an array and swap values
 
 #include<stdio.h>
