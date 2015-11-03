@@ -2,9 +2,7 @@
 //  hw3_task_2.c
 //  c program pattern
 //
-//  Brett Bishop
-// ID 1000425627
-//
+//  Brett 
 //
 
 #include <stdio.h>
