@@ -1,7 +1,6 @@
 #include <stdio.h>
 // hw 1 task 1 print output CSE
-//  Created by Brett Bishop
-//  id 1000425627
+//  
 
 int main(void)
 {
