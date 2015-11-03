@@ -1,5 +1,4 @@
-// Brett Bishop
-//id 1000425627
+
 //hw6 task 3 to use pointers to get data returned from menu advanced
 
 
