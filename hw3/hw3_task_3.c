@@ -2,8 +2,7 @@
 //  hw3_task_3.c
 //  
 // Rock Paper Scissors Game with functions
-//  Brett Bishop
-// ID 1000425627
+//  Brett 
 //
 //
 
