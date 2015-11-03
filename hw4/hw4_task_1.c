@@ -1,7 +1,6 @@
 
-//Brett Bishop
-//id 1000425627
-//cse1320
+//Brett 
+//
 //HW4 Task 1
 //Program to return a string without duplicate characters
 
