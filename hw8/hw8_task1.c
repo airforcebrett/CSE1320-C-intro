@@ -1,4 +1,4 @@
-/*   Brett Bishop Homework 8 task 1 Bubble Sort*/
+/*   Homework 8 task 1 Bubble Sort*/
 
 #include <stdio.h>
 #include <stdlib.h>
