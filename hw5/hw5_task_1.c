@@ -1,7 +1,5 @@
 
-//Brett Bishop
-//id 1000425627
-//cse1320
+
 //HW5 Task 1
 //Program to return a taylor series estimation
 
