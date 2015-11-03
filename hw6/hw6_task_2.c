@@ -1,5 +1,4 @@
-// Brett Bishop
-//id 1000425627
+
 //hw6 task 2 to use pointers to get data returned
 
 
