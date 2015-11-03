@@ -1,7 +1,6 @@
 #include <stdio.h> 
 // hw 1 task 2 print output
-//  Created by Brett Bishop
-//  id 1000425627
+//  Created By Airforce Brett
 
 int main(void)
 {
