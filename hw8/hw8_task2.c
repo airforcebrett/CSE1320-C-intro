@@ -1,4 +1,4 @@
-/*   Brett Bishop Homework 8 task 2 insertion Sort*/
+/* Homework 8 task 2 insertion Sort*/
 
 #include <stdio.h>
 #include <stdlib.h>
