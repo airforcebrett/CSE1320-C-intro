@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 // hw 1 task 4
-//  Created by Brett Bishop
-//  id 1000425627
+//  Created by Brett 
 
 int main(void)
 {
