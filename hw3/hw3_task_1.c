@@ -2,8 +2,7 @@
 //  hw3_task_1.c multiplication table
 //  
 //
-//  Brett Bishop
-// id#1000425627
+//  Brett 
 //
 
 #include <stdio.h>
